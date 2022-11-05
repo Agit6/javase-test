@@ -46,8 +46,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/Demo05_BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="138">
               <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+=======
+            <state relative-caret-position="230">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -194,7 +199,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667657740635" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1667660489436" />
+>>>>>>> Stashed changes
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -365,7 +374,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="115651000" />
+=======
+    <option name="totallyTimeSpent" value="117365000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,8 +409,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49798927" weight="0.16430596" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49865952" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49798927" visible="true" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" weight="0.3281471" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -851,8 +869,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/Demo05_BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="138">
           <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+=======
+        <state relative-caret-position="230">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
