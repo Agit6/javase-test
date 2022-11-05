@@ -12,6 +12,12 @@ public class Demo05_BinarySearch {
 
         System.out.println("yes i can't");
 
+        System.out.println("yes i can");
+
+        System.out.println("i konw i can");
+
+        System.out.println("finally end");
+
         System.out.println((index == -1)?"该数不存在":"该数的下标为：" + index);
 
     }
