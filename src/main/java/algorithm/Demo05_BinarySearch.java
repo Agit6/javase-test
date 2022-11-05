@@ -10,8 +10,7 @@ public class Demo05_BinarySearch {
 
         int index = BinarySearch(arr, 5);
 
-        System.out.println("123");
-
+        System.out.println("change");
 
         System.out.println((index == -1)?"该数不存在":"该数的下标为：" + index);
 
